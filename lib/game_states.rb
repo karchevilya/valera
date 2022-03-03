@@ -4,4 +4,5 @@ module GameStates
     RUNNING = 1
   
     EXIT = 2
-end
+  end
+  
